@@ -1,7 +1,0 @@
-git clone "link"
-
-git add .
-
-git commit -m "today messgae"
-
-git push origin main
